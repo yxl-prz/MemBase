@@ -1,5 +1,14 @@
-# MemBase
-A template project to easily develop internal cheats in Rust.
+<h1 align="center">MemBase</h1>
+<p align="center">A template project to easily develop internal cheats in Rust.</p>
+<p align="center">
+    <a href="https://rust-lang.org" alt="Made In">
+        <img src="https://img.shields.io/badge/MADE IN-Rust-red?style=for-the-badge&logo=rust&logoColor=white" /></a>
+    <a href="https://github.com/yxl-prz/MemBase/releases/latest" alt="Version">
+        <img src="https://img.shields.io/badge/VERSION-0.1.0-green?style=for-the-badge" /></a>
+    <a href="https://github.com/yxl-prz/MemBase/graphs/contributors" alt="Version">
+        <img src="https://img.shields.io/github/contributors/yxl-prz/MemBase?style=for-the-badge" /></a>
+</p>
+
 
 # Objective
 Being able to develop an internal cheat after running a `git clone`, and importing the neccesary offsets without further complications on set-up.
