@@ -3,3 +3,4 @@
 /src/offsets.rs
 /src/memory_signatures.rs
 /src/function_signatures.rs
+/src/config.rs
