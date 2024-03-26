@@ -1,0 +1,18 @@
+{
+    "offsets": {
+        "OffsetName": "0x17E0A8",
+        "HealthOffset": "0x18E0A9"
+    },
+    "memory_signature": {
+        "SignatureName": "8D 05 ? ? ? ? 48 89 4D"
+    },
+    "function_signatures": {
+        "FunctionName": {
+            "arguments": [
+                [ "ArgumentName",
+                   "*void" ]
+            ],
+            "return": "*void"
+        }
+    }
+}
