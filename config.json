@@ -1,0 +1,7 @@
+{
+    "name": "MemBase",
+    "import_offsets": true,
+    "import_memory_signatures": true,
+    "import_function_signatures": true,
+    "console": true
+} 
