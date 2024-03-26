@@ -1,0 +1,5 @@
+/target
+# These are automatically made at compile-time from offsets.json
+/src/offsets.rs
+/src/memory_signatures.rs
+/src/function_signatures.rs
